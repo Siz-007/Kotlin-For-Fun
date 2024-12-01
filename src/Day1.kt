@@ -5,10 +5,10 @@ comments */
 
 fun main() {
     println("Hello World!")
-//    variables()
-//    dataTypes()
-//    stringManipulation()
-//    ifElse()
+    variables()
+    dataTypes()
+    stringManipulation()
+    ifElse()
     whenFunc()
 }
 
