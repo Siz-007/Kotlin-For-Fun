@@ -45,10 +45,10 @@ fun stringManipulation() {
     println(message1.length)
     println(message1.uppercase())
     println(message1.lowercase())
-    println(message1.compareTo(message2))
+    println(message1.compareTo(message2)) //equal if output is 0.
     println(message1.indexOf("Hello"))
     println(message1.plus(message2))
-    println("$message1 and $message2 are same")
+    println("$message1 and $message2 are same.")
 }
 
 //if...else
